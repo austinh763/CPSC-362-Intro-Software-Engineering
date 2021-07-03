@@ -1,5 +1,6 @@
 # CPSC-362-project
- 
+Hai Nguyen, Luc Dang, Austin Hoang
+
 Texas Hold'em
 
 Using Unity Engine 2019.2.4f1
